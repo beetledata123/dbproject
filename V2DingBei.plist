@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.77.55.165:38020/Assets/DingBei.ipa</string>
+					<string>http://120.77.55.165:38920/Assets/DingBei.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://120.77.55.165:38020/Assets/display_image.png</string>
+					<string>http://120.77.55.165:38920/Assets/display_image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://120.77.55.165:38020/Assets/fullImage.png</string>
+					<string>http://120.77.55.165:38920/Assets/fullImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
