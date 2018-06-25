@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.76.203.167:38920/Assets/app.ipa</string>
+					<string>http://120.77.55.165:38920/Assets/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://120.76.203.167:38920/Assets/display_image.png</string>
+					<string>http://120.77.55.165:38920/Assets/display_image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://120.76.203.167:38920/Assets/fullImage.png</string>
+					<string>http://120.77.55.165:38920/Assets/fullImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xps.autoround</string>
+				<string>com.btdata.order3</string>
 				<key>bundle-version</key>
 				<string>2.0.0</string>
 				<key>kind</key>
