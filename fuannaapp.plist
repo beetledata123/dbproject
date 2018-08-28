@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.btdata.order3</string>
+				<string>cn.lifecycle.fairapp.nextgen</string>
 				<key>bundle-version</key>
 				<string>2.0.0</string>
 				<key>kind</key>
