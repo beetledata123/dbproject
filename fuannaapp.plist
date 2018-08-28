@@ -19,7 +19,7 @@
 					<key>url</key>
 					<string>http://120.76.203.167:3202/Assets/display_image.png</string>
 				</dict>
-				<dict>
+				<dict> 
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
